@@ -5,6 +5,7 @@
 ## Published Packages
 
 - [static_micro_cms](https://github.com/organic-nailer/static_micro_cms)
+- [adjusted_html_view_web](https://github.com/organic-nailer/adjusted_html_view_web)
 - [expanded_grid](https://github.com/organic-nailer/expanded_grid)
 - [flutter_fast_ui_white](https://github.com/organic-nailer/flutter_fast_ui_white)
 - [map_chart_jp](https://github.com/organic-nailer/map_chart_jp)
