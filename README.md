@@ -10,6 +10,7 @@
 - [flutter_fast_ui_white](https://github.com/organic-nailer/flutter_fast_ui_white)
 - [map_chart_jp](https://github.com/organic-nailer/map_chart_jp)
 - [axis_animated_positioned](https://github.com/organic-nailer/axis_animated_positioned)
+- [color_map_dart](https://github.com/organic-nailer/color_map_dart)
 
 ## Utilities
 
@@ -19,6 +20,11 @@
 - [[Web App] desmos2excel](https://github.com/organic-nailer/desmos2excel)
 - [[CAD] PrismGenerator](https://github.com/organic-nailer/PrismGenerator)
 - [[IoT] collect_remo_sensor_with_gas](https://github.com/organic-nailer/collect_remo_sensor_with_gas)
+- [[Desktop App] FFML-Viewer](https://github.com/organic-nailer/FFML-Viewer)
+- [[CLI] pcap_udp_server](https://github.com/organic-nailer/pcap_udp_server)
+- [[CLI] lidar-parser-rs](https://github.com/Keio-CSG/lidar-parser-rs)
+- [[Compiler] elaphe](https://github.com/organic-nailer/elaphe)
+- [[UI Framework] Fluko](https://github.com/organic-nailer/fluko)
 
 More Info -> [fastriver.dev](https://fastriver.dev)
 
